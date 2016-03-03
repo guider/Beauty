@@ -1,0 +1,420 @@
+[
+    {
+        "outputFile": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 51,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 51,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 7256,
+                    "endColumn": 42,
+                    "endOffset": 7294
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 7256,
+                        "endColumn": 42,
+                        "endOffset": 7294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 7299,
+                    "endColumn": 58,
+                    "endOffset": 7353
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 7299,
+                        "endColumn": 58,
+                        "endOffset": 7353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 7358,
+                    "endColumn": 63,
+                    "endOffset": 7417
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 7358,
+                        "endColumn": 63,
+                        "endOffset": 7417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 7422,
+                    "endColumn": 53,
+                    "endOffset": 7471
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 7422,
+                        "endColumn": 53,
+                        "endOffset": 7471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 7476,
+                    "endColumn": 69,
+                    "endOffset": 7541
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 7476,
+                        "endColumn": 69,
+                        "endOffset": 7541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 7546,
+                    "endColumn": 61,
+                    "endOffset": 7603
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 7546,
+                        "endColumn": 61,
+                        "endOffset": 7603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 7608,
+                    "endColumn": 62,
+                    "endOffset": 7666
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 7608,
+                        "endColumn": 62,
+                        "endOffset": 7666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 7671,
+                    "endColumn": 65,
+                    "endOffset": 7732
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 7671,
+                        "endColumn": 65,
+                        "endOffset": 7732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 7737,
+                    "endColumn": 61,
+                    "endOffset": 7794
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 7737,
+                        "endColumn": 61,
+                        "endOffset": 7794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 7799,
+                    "endColumn": 62,
+                    "endOffset": 7857
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 7799,
+                        "endColumn": 62,
+                        "endOffset": 7857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 7862,
+                    "endColumn": 62,
+                    "endOffset": 7920
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 7862,
+                        "endColumn": 62,
+                        "endOffset": 7920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 7925,
+                    "endColumn": 57,
+                    "endOffset": 7978
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 7925,
+                        "endColumn": 57,
+                        "endOffset": 7978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 7983,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 8341
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 7983,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 8341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 8346,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 8618
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 8346,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 8618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 8623,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 8846
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 8623,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 8846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 8851,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 9221
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 8851,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 9221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 9226,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 9616
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 9226,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 9616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 9621,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 10089
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 9621,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 10089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 10094,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 10444
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/github/Beauty/waterFallListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 10094,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 10444
+                    }
+                }
+            }
+        ]
+    }
+]

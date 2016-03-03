@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="UMAppUpdate">应用更新</string>
+    <string name="UMBreak_Network">未联网</string>
+    <string name="UMDialog_InstallAPK">最新版本已下载，是否安装？</string>
+    <string name="UMGprsCondition">（提示：非WIFI环境）</string>
+    <string name="UMIgnore">忽略该版</string>
+    <string name="UMNewVersion">最新版本: </string>
+    <string name="UMNotNow">以后再说</string>
+    <string name="UMTargetSize">新版本大小:</string>
+    <string name="UMToast_IsUpdating">正在更新中....</string>
+    <string name="UMUpdateCheck">2.4.2.20140520</string>
+    <string name="UMUpdateContent">更新内容</string>
+    <string name="UMUpdateNow">立即更新</string>
+    <string name="UMUpdateSize">仅需要下载:</string>
+    <string name="UMUpdateTitle">发现新版本</string>
+    <string name="about">   
+    软件免费下载，安装，注意流量监控，浏览图片会造成大量流量。 \n  
+    
+      为给本软件增加可玩性,软件上面增加了广告,看到什么好玩有趣的广告,不要忘记点击一下。但如果广告给你造成不便,请谅解。 \n 
+    
+    本软件刊载的所有内容，包括文字、图片等均在网上搜集，并非本人收集，存储。本人只是搬运工，把类似的东西搬运在一起。访问者可将本网站提供的内容或服务用于个人学习、研究或欣赏，以及其他非商业性或非盈利性用途，但同时应遵守著作权法及其他相关法律的规定，不得侵犯本软件及相关权利人的合法权利</string>
+    <string name="action_settings">Settings</string>
+    <string name="actionbar_activity_not_found">Failed to open intent…</string>
+    <string name="app_name">妹子图库</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="collect">收藏</string>
+    <string name="download">下载</string>
+    <string name="event_begin">事件开始</string>
+    <string name="event_duration">数值型统计</string>
+    <string name="event_end">事件结束</string>
+    <string name="flush_cache">手动发送数据</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home_title">首页</string>
+    <string name="intro"> The webview before show js call Umeng Analytics APIs</string>
+    <string name="js_in_webview">Webview 统计</string>
+    <string name="kv_event">多属性(K-V)事件</string>
+    <string name="make_crash">程序崩溃</string>
+    <string name="normal_event">普通事件</string>
+    <string name="online_config">在线参数</string>
+    <string name="page_stack">统计 Fragment 页面(Stack)</string>
+    <string name="page_tabs"> 统计 Fragment 页面( Tab )</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+    <string name="ptr_pull_to_refresh">Pull to refresh</string>
+    <string name="ptr_refreshing">Refreshing</string>
+    <string name="ptr_release_to_refresh">Release to refresh</string>
+    <string name="set_wallpaper">设置壁纸</string>
+    <string name="share">分享</string>
+    <string name="social_analytics">社交统计</string>
+    <string name="str_bijini">比基尼</string>
+    <string name="str_changfa">长发美女</string>
+    <string name="str_changtui">长腿诱惑</string>
+    <string name="str_chemo">车模名媛</string>
+    <string name="str_duanfa">短发美女</string>
+    <string name="str_feizhuliu">非主流</string>
+    <string name="str_gaoyayoufan">高雅有范</string>
+    <string name="str_gudianmeinv">古典美女</string>
+    <string name="str_keai">可爱</string>
+    <string name="str_luoli">萝莉</string>
+    <string name="str_qingchun">清纯</string>
+    <string name="str_qizhi">气质美女</string>
+    <string name="str_quanbu">全部美女</string>
+    <string name="str_shishang">时尚美女</string>
+    <string name="str_suyan">素颜</string>
+    <string name="str_tiansuchun">甜素纯</string>
+    <string name="str_wangluomeinv">网络美女</string>
+    <string name="str_weimei">唯美</string>
+    <string name="str_xiaohua">校花</string>
+    <string name="str_xiaoqingxin">小清新</string>
+    <string name="str_xiezhen">美女写真</string>
+    <string name="str_xinggan">性感诱惑</string>
+    <string name="str_youhuo">诱惑写真</string>
+    <string name="str_zuqiubaobie">足球宝贝</string>
+    <string name="umeng_common_action_cancel">取消</string>
+    <string name="umeng_common_action_continue">继续</string>
+    <string name="umeng_common_action_info_exist">正在下载中.</string>
+    <string name="umeng_common_action_pause">暂停</string>
+    <string name="umeng_common_download_failed">下载失败</string>
+    <string name="umeng_common_download_finish">下载完成，请点击安装</string>
+    <string name="umeng_common_download_notification_prefix">正在下载: </string>
+    <string name="umeng_common_icon">icon</string>
+    <string name="umeng_common_info_interrupt">下载出错啦，请检查网络后继续。</string>
+    <string name="umeng_common_network_break_alert">请连接网络后再尝试！</string>
+    <string name="umeng_common_patch_finish">更新完成，请点击安装</string>
+    <string name="umeng_common_pause_notification_prefix">暂停: </string>
+    <string name="umeng_common_silent_download_finish">新版本已经准备好，请点击安装</string>
+    <string name="umeng_common_start_download_notification">正在下载应用</string>
+    <string name="umeng_common_start_patch_notification">正在更新安装包</string>
+    <string name="umeng_example_home_hint_wait">Coming soooooon</string>
+    <string name="umeng_fb_back">返回</string>
+    <string name="umeng_fb_contact_info">联系方式</string>
+    <string name="umeng_fb_contact_info_hint">QQ, 电话等我们能联系您的联系方式</string>
+    <string name="umeng_fb_contact_title">填写联系信息</string>
+    <string name="umeng_fb_contact_update_at">更新于 </string>
+    <string name="umeng_fb_notification_content_formatter_multiple_msg">收到来自开发者的 %d 条回复。</string>
+    <string name="umeng_fb_notification_content_formatter_single_msg">新回复: %s</string>
+    <string name="umeng_fb_notification_ticker_text">有新的回复</string>
+    <string name="umeng_fb_powered_by">Powered by</string>
+    <string name="umeng_fb_reply_content_default">你好， 我是产品经理，欢迎您反馈使用产品的感受和建议</string>
+    <string name="umeng_fb_reply_content_hint">我想说</string>
+    <string name="umeng_fb_reply_date_default">2013年3月12日 13:24:00</string>
+    <string name="umeng_fb_send">发送</string>
+    <string name="umeng_fb_title">用户反馈</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+</resources>

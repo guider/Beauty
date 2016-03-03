@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.guider.beauty"
+        minSdkVersion 15
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':waterFallListView')
+    compile files('libs/fastjson-1.1.43.android.jar')
+    compile files('libs/ormlite-android-4.48.jar')
+    compile files('libs/ormlite-core-4.48.jar')
+    compile files('libs/support.jar')
+    compile files('libs/umeng-analytics-v5.2.4.jar')
+    compile files('libs/umeng-fb-v4.3.2.jar')
+    compile files('libs/umeng-update-v2.4.2.jar')
+    compile files('libs/volley.jar')
+    compile 'com.android.support:support-v4:23.0.0'
+    compile 'com.uwetrottmann.photoview:library:1.2.4'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile project(':bannerlibrary')
+    compile 'com.jakewharton:butterknife:7.0.1'
+}
